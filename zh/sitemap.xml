@@ -28,30 +28,43 @@
                 href="https://weskwong.github.io/zh/posts/papermod/papermod-features/"
                 />
   </url><url>
-    <loc>https://weskwong.github.io/zh/posts/markdown-syntax.fr/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://weskwong.github.io/zh/posts/papermod/papermod-faq/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://weskwong.github.io/en/posts/markdown-syntax.fr/"
+                href="https://weskwong.github.io/en/posts/papermod/papermod-faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://weskwong.github.io/zh/posts/markdown-syntax.fr/"
+                href="https://weskwong.github.io/zh/posts/papermod/papermod-faq/"
                 />
   </url><url>
-    <loc>https://weskwong.github.io/zh/posts/markdown-syntax.fa/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://weskwong.github.io/zh/posts/papermod/papermod-icons/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://weskwong.github.io/en/posts/markdown-syntax.fa/"
+                href="https://weskwong.github.io/en/posts/papermod/papermod-icons/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://weskwong.github.io/zh/posts/markdown-syntax.fa/"
+                href="https://weskwong.github.io/zh/posts/papermod/papermod-icons/"
+                />
+  </url><url>
+    <loc>https://weskwong.github.io/zh/posts/papermod/papermod-variables/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://weskwong.github.io/en/posts/papermod/papermod-variables/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://weskwong.github.io/zh/posts/papermod/papermod-variables/"
                 />
   </url><url>
     <loc>https://weskwong.github.io/zh/tags/docs/</loc>
