@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://weskwong.github.io/sitemap.xml
